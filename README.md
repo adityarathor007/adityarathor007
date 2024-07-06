@@ -9,20 +9,53 @@ Heyo! I'm Aditya, a passionate AI Engineer and Backend Developer. Currently 3rd 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-rathor-87829324b/) 
+
+[![Website](https://img.shields.io/badge/Website-AR07.com-1abc9c?style=for-the-badge&logo=google-chrome)](https://ar7.rf.gd/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Rathor-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-rathor-87829324b/)
+
+
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
+
+<a href="https://react.dev/blog/2023/03/16/introducing-react-dev"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"></a><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" ><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/> </a>
+<a href="https://tailwindcss.com/docs/installation" ><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/></a>
+<a href="https://nodejs.org/docs/latest/api/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/></a>
+<a href="https://docs.djangoproject.com/en/5.0/"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/></a>
+<a href="https://devdocs.io/cpp-containers/"><img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="Cpp"></a>
+<a href="https://dev.mysql.com/doc/"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/></a>
+<a href="https://docs.python.org/3/"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/></a>
+<a href="https://www.tensorflow.org/api_docs/python/tf"><img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/></a>
+<a href="https://pytorch.org/docs/stable/index.html"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/></a>
+<a href="https://docs.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/></a>
+<a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html"><img src="https://skillicons.dev/icons?i=bash" alt="Linux" width="50" height="50"/></a>
+<a href="https://www.latex-project.org/help/documentation/"><img src="https://skillicons.dev/icons?i=latex" alt="Linux" width="50" height="50"/></a>
+
+  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adityarathor007&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adityarathor007&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityarathor007&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=adityarathor007&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityarathor007&theme=codeSTACKr&hide_border=false" >
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityarathor007&custom_title=My%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=09131b&color=d8582e&line=ffffff&point=efd808&area_color=000000&title_color=d8582e&area=true%22%20alt=%22GitHub%20Activity%20Graph%22%20/%3E" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarathor007&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adityarathor007&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
 ---
