@@ -38,11 +38,14 @@ Heyo! I'm Aditya, a passionate AI Engineer and Backend Developer. Currently 3rd 
 
 
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityarathor007&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityarathor007&theme=codeSTACKr&hide_border=false" >
 </div>
-
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityarathor007&theme=codeSTACKr&hide_border=false" >
+</div>
+ 
 <br>
 
 <div align="center">
