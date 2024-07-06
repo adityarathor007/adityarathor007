@@ -1,5 +1,11 @@
+<div align="center">
+<img src="https://github.com/adityarathor007/adityarathor007/blob/main/terminal.gif" alt="hi" style="width: 500px;" >
+</div>
+
+
+
 # 💫 About Me:
-🔭 Script Identification and Autoeval<br>🌱  DSA,Django,DL<br>👨‍💻 https://ar7.rf.gd/<br>
+Heyo! I'm Aditya, a passionate AI Engineer and Backend Developer. Currently 3rd Year undergrad in Artificial Intelligence and Data Science at IIT Jodhpur. With a focus on learning and growth, I’m diving deep into AI, deep learning, and their frameworks while honing my skills in Django for robust backend development. Fun Fact I am fitness freak
 
 
 ## 🌐 Socials:
